@@ -3,6 +3,7 @@ body {
   -webkit-perspective: 1000;
   background: url(https://f.cl.ly/items/3Q031Q1m1s1d3C0I023k/geometry2.png);
   font-family: Avenir Next, sans-serif;
+  overflow-x: hidden;
 }
 
 

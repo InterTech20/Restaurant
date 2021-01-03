@@ -57,7 +57,7 @@ body {
 
 #header.sticky{
   padding: 20px 100px;
-  background:#29295B;
+  background:#401212;
   border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
@@ -96,7 +96,7 @@ body {
 
 #header.sticky .logo ,
 #header.sticky .nav .nav-items .nav-items-a{
-background:#29295B;
+background:#401212;
   color: white;
 }
 
@@ -372,7 +372,7 @@ background:#29295B;
 
 footer { 
   width:100%; 
-  background-color:#263238; 
+  background-color:#401212; 
   min-height:250px; 
   padding:10px 0px 25px 0px;
 }
